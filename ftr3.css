@@ -1,0 +1,190 @@
+#container{
+width:1350px;
+height:650px;
+}
+
+#header{
+width:1350px;
+height:110px;
+position:relative;
+background-image:url(head_bg1.gif);
+}
+#txt1{
+	position:absolute;
+	top:-110px;
+	left:500px;
+	font-size:100px;
+	font-weight:bold;
+}
+
+#body{
+width:1350px;
+height:650px;
+position:relative;
+background-color:green;
+background-image:url(FB-Header-Background-2.jpg);
+}
+
+#css-image2{	
+width:490px;
+height:640px;	
+}
+
+#css-image3{
+position:absolute;
+top:107px;
+left:800px;
+width:30px;
+height:30px	
+}
+
+#css-image4{
+position:absolute;
+top:200px;
+left:800px;
+width:30px;
+height:30px	
+}
+
+#css-image5{
+position:absolute;
+top:315px;
+left:800px;
+width:30px;
+height:30px	
+}
+
+
+#css-image6{
+position:absolute;
+top:410px;
+left:800px;
+width:30px;
+height:30px	
+}
+
+
+#css-image7{
+position:absolute;
+top:503px;
+left:800px;
+width:30px;
+height:30px	
+}
+
+
+#css-image8{
+position:absolute;
+top:587px;
+left:800px;
+width:30px;
+height:30px	
+}
+
+
+#txt2{
+	position:absolute;
+	top:-10px;
+	left:500px;
+	font-size:30px;
+}
+
+#txt3{
+	position:absolute;
+	top:36px;
+	left:500px;
+	font-size:14px;
+}
+
+#txt4{
+	position:absolute;
+	top:60px;
+	left:500px;
+	font-size:20px;
+	color: #2F4F4F ;
+}
+
+#txt5{
+	position:absolute;
+	top:90px;
+	left:500px;
+	font-size:14px;
+}
+
+#txt6{
+	position:absolute;
+	top:150px;
+	left:500px;
+	font-size:20px;
+	color: #2F4F4F ;
+}
+
+#txt7{
+	position:absolute;
+	top:180px;
+	left:500px;
+	font-size:14px;
+}
+
+#txt8{
+	position:absolute;
+	top:250px;
+	left:500px;
+	font-size:20px;
+	color: #2F4F4F ;
+}
+
+#txt9{
+	position:absolute;
+	top:280px;
+	left:500px;
+	font-size:14px;
+}
+
+
+#txt10{
+	position:absolute;
+	top:345px;
+	left:500px;
+	font-size:20px;
+	color: #2F4F4F ;
+}
+
+#txt11{
+	position:absolute;
+	top:375px;
+	left:500px;
+	font-size:14px;
+}
+
+
+#txt12{
+	position:absolute;
+	top:440px;
+	left:500px;
+	font-size:20px;
+	color: #2F4F4F ;
+}
+
+#txt13{
+	position:absolute;
+	top:468px;
+	left:500px;
+	font-size:14px;
+}
+
+
+#txt14{
+	position:absolute;
+	top:520px;
+	left:500px;
+	font-size:20px;
+	color:#2F4F4F;
+}
+
+#txt15{
+	position:absolute;
+	top:550px;
+	left:500px;
+	font-size:14px;
+}

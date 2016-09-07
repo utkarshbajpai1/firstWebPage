@@ -1,0 +1,127 @@
+#container{
+width:1350px;
+height:700px;
+}
+
+#header{
+width:1350px;
+height:110px;
+background-color:#00FFFF;
+position:relative;
+background-image:url(FB-Header-Background-2.jpg);
+}
+#txt1{
+	position:absolute;
+	top:-110px;
+	left:500px;
+	font-size:100px;
+	font-weight:bold;
+}
+
+#body{
+width:700px;
+height:2400px;
+background-color:#E6E6FA;
+position:relative;
+}
+
+#css-image1{
+position:absolute;
+top:30px;
+left:30px;
+width:250px;
+height:250px;	
+}
+
+
+#txt2{
+	position:absolute;
+	top:-20px;
+	left:300px;
+	font-size:30px;
+}
+
+#txt3{
+	position:absolute;
+	top:30;
+	left:300px;
+	font-size:14px;
+}
+
+#txt4{
+	position:absolute;
+	top:44px;
+	left:300px;
+	font-size:20px;
+	color: #2F4F4F ;
+}
+
+#txt5{
+	position:absolute;
+	top:73px;
+	left:300px;
+	font-size:14px;
+}
+
+#txt6{
+	position:absolute;
+	top:130px;
+	left:300px;
+	font-size:20px;
+	color: #2F4F4F ;
+}
+
+#txt7{
+	position:absolute;
+	top:160px;
+	left:300px;
+	font-size:14px;
+}
+
+#txt8{
+	position:absolute;
+	top:210px;
+	left:300px;
+	font-size:20px;
+	color: #2F4F4F ;
+}
+
+#txt9{
+	position:absolute;
+	top:240px;
+	left:300px;
+	font-size:14px;
+}
+
+#txt10{
+	position:absolute;
+	top:300px;
+	left:300px;
+	font-size:20px;
+	color: #2F4F4F;
+}
+#txt11{
+	position:absolute;
+	top:320px;
+	left:10px;
+	font-size:14px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

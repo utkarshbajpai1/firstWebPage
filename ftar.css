@@ -1,0 +1,65 @@
+
+#navMenu{
+margin:0;
+padding:0;
+}
+
+#navMenu ul{
+margin:0;
+padding:0;
+line-height:28px;
+font-size:18px;
+}
+
+#navMenu li{
+margin:0;
+padding:0;
+float:left;
+list-style:none;
+position:relative;
+}
+
+#navMenu ul li a{
+text-align:center;
+text-decoration:none;
+display:block;
+width:150px;
+height:30px;
+text-shadow:2px 2px 2px gray;
+background-color:darkgrey;
+color: white;
+border:2px solid black;
+}
+
+#navMenu ul ul{
+position:absolute;
+visibility:hidden;
+}
+
+#navMenu ul li:hover li{
+visibility:visible;
+}
+
+#navMenu ul li a:hover{
+color:green;
+background-color: #00FFFF ;
+}
+
+#navMenu ul li:hover ul li a:hover{
+color:green;
+background-color: #7FFFD4 ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

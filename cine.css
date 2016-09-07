@@ -1,0 +1,244 @@
+#container{
+min-width:1350px;
+min-height:1200px;	
+}
+
+#header{
+	width:1350px;
+	min-height:150px;
+	background-color:#00FFFF;
+	position:relative;
+	color:  #696969; 
+	background-image:url(waveform.jpg);
+}
+
+
+
+#body{
+	width:1100px;
+	height:500px;
+	border-bottom:2px solid black;
+    background-color:#F0FFFF;
+	position:relative;
+	background-image:url(fan-movie-poster-srk-2015.png);
+	background-repeat:no-repeat;
+	}
+
+#rightnav{
+	min-width:250px;
+	height:500px;
+	float:right;
+	border-left:2px solid black;
+    background-color: #98FB98 ;
+	border-top:2px solid black;
+	position:relative;
+   }
+
+#footer1{
+	width:1350px;
+	height:300px;
+    background-color: #B0E0E6 ;
+	border-bottom:2px solid black;
+	position:relative;
+	background-image:url(jqS7poF.jpg);
+   }
+   
+   #footer2{
+	width:1350px;
+	height:250px;
+    background-color: #C0C0C0 ;
+	border-bottom:2px solid black;
+	position:relative;
+   }
+   
+p1{
+   font-size:100px;
+   font-weight:bold;
+   position:absolute;
+   top:30px;
+   left:20px;
+}
+   
+ #img1{
+	 position:absolute;
+	 top:155px;
+	 left:1105px;
+	width:250px;
+	height:500px;
+ }  
+   
+ 
+#footer1 p2{
+	position:absolute;
+	font-family:Segoe Script;
+	top:20px;
+	font-size:30px;
+	left:20px;
+  } 
+  
+ #img2{
+	 position:absolute;
+	 top:660px;
+	 left:0;
+	width:300px;
+	height:300px;
+ }  
+  
+ #img3{
+	 position:absolute;
+	 top:660px;
+	 left:350;
+	width:300px;
+	height:300px;
+ }  
+   
+ #img4{
+	 position:absolute;
+	 top:660px;
+	 left:700;
+	width:300px;
+	height:300px;
+ }  
+ 
+ #img5{
+	 position:absolute;
+	 top:660px;
+	 left:1050;
+	width:300px;
+	height:300px;
+ }  
+ 
+#wrath{
+	 position:absolute;
+	 top:400px;
+	 left:770px;
+ }
+ 
+#NAVMENU{
+margin:0;
+padding:0;
+}
+
+#NAVMENU ul{ 
+margin:0;
+padding:0;
+font-size:20px;
+line-height:32px;
+}
+
+#NAVMENU li{
+margin:0;
+padding:0;
+float:left;
+position:relative;
+list-style:none;
+}
+
+#NAVMENU ul li a{
+text-align:center;
+text-decoration:none;
+font-family:benhaus;
+display:block;
+width:300px;
+height:40px;
+background-color:grey;
+border:0 2px 0 2px solid black;
+text-shadow:2px 2px 2px black;
+color: #F0FFFF;
+}
+
+#NAVMENU ul ul{
+position:absolute;
+visibility:hidden;
+}
+
+#NAVMENU ul li:hover li{
+visibility:visible;
+}
+
+#NAVMENU ul li a:hover{
+background-color: #8FBC8F ;
+color:lightgrey;
+}
+
+#NAVMENU ul li:hover ul li a:hover{
+color:#F8F8FF;	
+background-color:#A9A9A9;
+}
+    
+ 
+#body p1{
+	 position:absolute;
+	 font-size:30px;
+	 font-weight:bold;
+	 top:150px;
+	 left:750px;
+ }  
+ 
+#footer2 a1{
+	 text-align:center;
+	 position:absolute;
+	 top:100px;
+	 left:400px;
+ }  
+   
+#img6{
+	position:absolute;
+	top:965px;
+	left:600px;
+	width:100px;
+	height:100px;
+	
+}													
+   
+#css-image5{
+width:40px;
+height:40px;
+position:absolute;
+top:1175px;
+left:1200px;
+}
+
+#css-image6{
+width:40px;
+height:40px;
+position:absolute;
+top:1175px;
+left:1260px;
+}
+
+#css-image7{
+width:50px;
+height:50px;
+position:absolute;
+top:1175px;
+left:1310px;
+}
+ 
+#css-image9{
+position:absolute;
+top:1160px;
+left:600px;
+}
+
+c1{
+position:absolute;
+top:370px;
+left:750px;	
+} 	
+   
+   
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
